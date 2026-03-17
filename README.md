@@ -87,7 +87,7 @@ Me chamo Isabela, sou estudante do 6º período de Ciência da Computação, com
           
  <br/>
  <br/> 
- ###ESTATÍSTICAS 
+ ### ESTATÍSTICAS 
  <img 
     align="left" 
     alt="GitHub Stats" 
