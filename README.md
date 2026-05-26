@@ -1,4 +1,4 @@
-## 🐬Isabela Silvério
+## Isabela Silvério
 
 Me chamo Isabela, sou estudante do 6º período de Ciência da Computação, com interesse em iniciar minha carreira na área de dados. Tenho facilidade para aprender novas tecnologias de forma rápida e sou autodidata, sempre buscando aprofundar meus conhecimentos por meio de projetos e estudos independentes. Possuo conhecimentos em C++, C#, Python, SQL, HTML e CSS, além de boa base em lógica de programação e resolução de problemas. Tenho interesse em áreas como análise de dados, engenharia de dados e desenvolvimento de soluções baseadas em dados. Atualmente estou em busca de uma oportunidade de estágio onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções tecnológicas.
 
